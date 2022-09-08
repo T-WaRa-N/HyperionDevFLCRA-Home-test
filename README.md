@@ -47,7 +47,7 @@ Computer code has to be correct, it has to work according to expectations or giv
 > ### Documentation 1/4
 
 
-Great work and there is still room for improvement to make your code work. Work on your indentation and check variable that might be missed for some built-in functions. Please fix the minor errors and resubmit.
+Great work you have written the class well, the method has been indented right and there is still room for improvement to make your code work. Work on your indentation (check all code blocks to be rightfuly indented) and also check variable that might be missed for some built-in functions. Please fix the minor errors and resubmit.
 
 Regards,
 
